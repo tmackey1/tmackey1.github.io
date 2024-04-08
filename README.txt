@@ -1,0 +1,1 @@
+In the navigation bar, I had my padding set correctly, but it doesn't show on the website. It showed up fine before I added different fonts.  I took out the fonts, hoping it would go back to how I had it. I'm not sure why it still has the default font and padding.
